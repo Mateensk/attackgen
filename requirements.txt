@@ -3,3 +3,4 @@ mitreattack-python
 openai
 pandas
 streamlit
+anyio>=4.4.0 # not directly required, pinned by Snyk to avoid a vulnerability
